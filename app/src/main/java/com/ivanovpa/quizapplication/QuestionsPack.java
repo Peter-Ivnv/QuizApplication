@@ -49,7 +49,7 @@ public class QuestionsPack {
                 "В Исландии",
                 "В Новой Зеландии",
                 "В Австралии",
-                "в Новой Зеландии",
+                "В Новой Зеландии",
                 "");
 
         final QuestionsList question6 = new QuestionsList
